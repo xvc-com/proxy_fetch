@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@3-/freeproxy": "^0.1.12"
+  },
+  "devDependencies": {}
+}
